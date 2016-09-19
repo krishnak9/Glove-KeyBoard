@@ -1,6 +1,6 @@
 # Glove-KeyBoard
 
-##REFERENCES
+###REFERENCES
 
 1 . [USB-HID Codes](http://www.freebsddiary.org/APC/usb_hid_usages.php)<br>
 2 . [Shift Register Datasheet](http://www.redrok.com/CMOS_CD4021BC_8-StageStaticShiftRegister_Fairchild.pdf) -- for pin diag etc.<br>
