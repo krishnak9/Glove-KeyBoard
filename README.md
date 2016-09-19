@@ -10,3 +10,4 @@
 6 . [Xbee Module Tutorial 1](http://www.instructables.com/id/Xbee-quick-setup-guide-Arduino/?ALLSTEPS) || [Xbee Module Tutorial 2](http://www.engineersgarage.com/embedded/arduino/how-to-interface-xbee-with-arduino-tutorial)<br>
 7 . [Difference B/w Zigbee And Xbee](https://www.quora.com/What-is-the-difference-between-ZigBee-and-XBee)<br>
 8 . [Asynchronous and Synchronous data transfer] (http://www.engr.iupui.edu/~skoskie/ECE362/lecture_notes/LNB25_html/text12.html)<br>
+9 . [How Gyroscope Sensor Works](http://www5.epsondevice.com/en/information/technical_info/gyro/)<br>
