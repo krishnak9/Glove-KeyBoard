@@ -11,3 +11,4 @@
 7 . [Difference B/w Zigbee And Xbee](https://www.quora.com/What-is-the-difference-between-ZigBee-and-XBee)<br>
 8 . [Asynchronous and Synchronous data transfer] (http://www.engr.iupui.edu/~skoskie/ECE362/lecture_notes/LNB25_html/text12.html)<br>
 9 . [How Gyroscope Sensor Works](http://www5.epsondevice.com/en/information/technical_info/gyro/)<br>
+10 . [MPU-6050-Accelerometer And Gyroscope Datasheet](https://www.cdiweb.com/datasheets/invensense/MPU-6050_DataSheet_V3%204.pdf)
